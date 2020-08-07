@@ -4,7 +4,7 @@ import random
 from pygame import mixer
 
 pygame.init()
-
+ 
 W, H = 1400, 787
 win = pygame.display.set_mode((W, H))
 pygame.display.set_caption('Ninja Game')
