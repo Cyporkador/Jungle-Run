@@ -1,4 +1,4 @@
-# NinjaForest
+# Jungle Run
 2D side-scrolling platformer made in Python with Pygame
 
 # Controls
